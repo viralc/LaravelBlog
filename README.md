@@ -25,6 +25,8 @@ DB_PASSWORD=secret
 
 run on command line
 
+```php artisan migrate:fresh```
+
 ```php artisan db:seed --class="BlogsTableSeeder"```
 
 ```php artisan serve```
