@@ -1,4 +1,4 @@
-# LaravelBlog
+# LaravelBlog Laravel 5.6 Blog Admin Panel
 
 ### Installation
 
